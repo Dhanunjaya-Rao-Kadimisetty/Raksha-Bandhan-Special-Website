@@ -105,7 +105,7 @@ export const REASONS = [
     id: 1,
     emoji: "❤️",
     title: "Your Kind Hearts",
-    description: "Bhargavi, Akshara  — you all carry such warmth that makes me feel at home.",
+    description: "Bhargavi, Akshara, Nayani — you all carry such warmth that makes me feel at home.",
     color: "pink",
   },
   {
