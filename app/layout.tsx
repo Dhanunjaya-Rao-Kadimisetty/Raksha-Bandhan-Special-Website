@@ -22,12 +22,12 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Happy Raksha Bandhan - A Gift for Bhargavi & Akshara",
+  title: "Happy Raksha Bandhan - A Gift for Bhargavi, Akshara & Srinayani",
   description:
-    "A heartfelt digital gift crafted with endless love by Dhanunjaya for his beloved sisters Bhargavi and Akshara. Happy Raksha Bandhan!",
+    "A heartfelt digital gift crafted with endless love by Dhanunjaya for his beloved sisters Bhargavi, Akshara and Srinayani. Happy Raksha Bandhan!",
   keywords: ["Raksha Bandhan", "Sister", "Brother", "Love", "Gift"],
   openGraph: {
-    title: "Happy Raksha Bandhan - For Bhargavi & Akshara ❤️",
+    title: "Happy Raksha Bandhan - For Bhargavi, Akshara & Srinayani ❤️",
     description: "A cinematic digital surprise crafted with love by Dhanunjaya",
     type: "website",
   },
